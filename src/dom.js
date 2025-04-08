@@ -326,7 +326,7 @@ const dom = (() => {
         footer.appendChild(pFooter);
         //add link and icon after text
         const ghubLink = document.createElement('a');
-        ghubLink.href = "https://github.com/xandernesta/odin-restaurant/";
+        ghubLink.href = "https://github.com/xandev3/odin-restaurant/";
         const ghubImg = document.createElement('i');
         ghubImg.classList.add('fa-github');
         ghubImg.classList.add('fa-brands');
